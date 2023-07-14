@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/.react-eamil/node_modules
+/.react-email/.next
+/.react-email/.vscode
+# dependencies
+/node_modules
